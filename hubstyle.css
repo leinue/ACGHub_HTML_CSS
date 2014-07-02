@@ -1,7 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 	body{
-		background:#F8F8F8;}
+		background:#F8F8F8;
+		padding-bottom:70px;}
 	
 	#head_left{
 		float:right;}
@@ -49,3 +50,27 @@
 		
 	#ad{
 		margin-top:50px;}
+	
+	#one-half-right{
+		border-bottom:1px solid #CDCDCD;
+		border-right:1px solid #CDCDCD;
+		text-align:center;}
+	
+	#one-half-botttom{
+		text-align:center;
+		border-bottom:1px solid #CDCDCD;}
+		
+	#one-half-right-none-bottom{
+		text-align:center;
+		border-right:1px solid #CDCDCD;}
+		
+	#img-front{
+		width: 500px;
+        height: 200px;
+		margin: 0px auto 15px;}
+	
+	#img-bottom{
+		width:500px;
+		height:200px;
+		margin-top:15px;}
+		
